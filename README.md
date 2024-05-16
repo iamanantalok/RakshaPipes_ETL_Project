@@ -21,7 +21,8 @@ The project involves three main tasks:
 ## Task 2: Database Schema Design and Data Import
 **Objective**: Design a MySQL database schema to reflect Raksha Pipes' operations. Import the generated CSV files to populate the tables.
 
-**Execution**: Access the provided Colab notebook containing the MySQL database schema. Use MySQL Workbench to import data from the provided self-contained file. Follow the import process and refresh the schema for successful import.
+**Execution**: Access the provided Colab notebook containing the MySQL database schema. Open MySQL Workbench and navigate to Server.
+Proceed to Data Import > Import from Disk > Import from Self-Contained File. Follow the import process and refresh the schema for successful import.
 
 **Database Schema Link**: [MySQL Database Schema](https://drive.google.com/drive/folders/1LV8rKqaLhnKhSeWDMYSXvUY5bABnXM0y?usp=sharing)
 
